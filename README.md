@@ -6,7 +6,14 @@ Nama : Muhammad Dafi Mehendra <br>
 Kelas : TI6A <br>
 
 INFO PRIBADI <br>
-Nama Pendek  : Dafi/hendra/ahmad <br>
+<table>
+  <tr>
+    <td> Nama Pendek</td>
+    <td> : </td>
+    <td> Dafi/hendra/ahmad </td>
+  </tr>
+</table>
+  <br>
 Nomor Hp : 081273152070 <br>
 Status : - <br>
 Pekerjaan : Apapun Yng penting dapat duit dan halal <br>
