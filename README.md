@@ -36,10 +36,10 @@ Tetap Semangat ...semangat...semangat<br>
 
 # Link Youtube A&PPL
  Matakuliah Ini Ditampuh Oleh Bapak Yohanes Japriadi Setiawan, S.Kom, M.Kom 
- <br>Adalah Salah Satu Dosen atau Pendidik Perguruan Tinggi Pada Institut Sains Dan Bisnis (ISB) Atma Luhur Yang Sangat Berperngaruh pada kampus ini dan salah satu dosen terbaik dan mudah dipahami saat menjelasan materi ataupun praktek.
+ <br> Adalah Salah Satu Dosen atau Pendidik Perguruan Tinggi Pada Institut Sains Dan Bisnis (ISB) Atma Luhur Yang Sangat Berperngaruh pada kampus ini dan salah satu dosen terbaik dan mudah dipahami saat menjelasan materi ataupun praktek.
  <oi>
- <h4>Youtube Pertemuan Pertama </h4>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/l-gmvm258as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
- <h4>Youtube Pertemuan Kedua Tentang Analisa pada Activity Diagram Menggunakan Aplikasi Astah Community</h4>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/9Xwu-typjMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+  <table>
+    <tr> <td> <h4>Youtube Pertemuan Pertama </h4> </td> <td> <h4>Youtube Pertemuan Kedua Tentang Analisa pada Activity Diagram Menggunakan Aplikasi Astah Community</h4> </td> </tr>
+    <tr> <td>  <iframe width="640" height="360" src="https://www.youtube.com/embed/l-gmvm258as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> </td> <td> <iframe width="640" height="360" src="https://www.youtube.com/embed/9Xwu-typjMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> </td> </tr>
+  </table>
  </oi>
