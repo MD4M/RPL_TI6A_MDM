@@ -1,9 +1,11 @@
 # RPL_TI6A_MDM
 Rangkuman Materi A&PPL RSCR4MDM
 
-NIM : 1811500086 <br>
-Nama : Muhammad Dafi Mehendra <br>
-Kelas : TI6A <br>
+<table align="left">
+  <tr> <td> Nim</td> <td> : </td> <td> 1811500086 </td> </tr>
+  <tr> <td> Nama</td> <td> : </td> <td> Muhammad Dafi Mahendra </td> </tr>
+	<tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
+</table>
 
 INFO PRIBADI <br>
 <table border ="0">
