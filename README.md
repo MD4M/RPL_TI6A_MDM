@@ -8,15 +8,18 @@ Kelas : TI6A <br>
 INFO PRIBADI <br>
 <table>
   <tr>
-    <td> Nama Pendek</td>
-    <td> : </td>
-    <td> Dafi/hendra/ahmad </td>
+    <td> Nama Pendek</td> <td> : </td> <td> Dafi/hendra/ahmad </td>
+  </tr>
+  <tr>
+    <td> Nomor Hp</td> <td> : </td> <td> 081273152070  </td>
+  </tr>
+  <tr>
+    <td> Pekerjaan </td> <td> : </td> <td> Apapun Yng penting dapat duit dan halal </td>
+  </tr>
+  <tr>
+    <td>Status</td> <td> : </td> <td> -  </td>
   </tr>
 </table>
-  <br>
-Nomor Hp : 081273152070 <br>
-Status : - <br>
-Pekerjaan : Apapun Yng penting dapat duit dan halal <br>
 Tetap Semangat ...semangat...semangat<br>
 <br>
 
