@@ -6,7 +6,7 @@ Rangkuman Materi A&PPL RSCR4MDM
   <tr> <td> Nama</td> <td> : </td> <td> Muhammad Dafi Mahendra </td> </tr>
 	<tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
 </table>
-
+<br>
 INFO PRIBADI <br>
 <table border ="0">
   <tr>
