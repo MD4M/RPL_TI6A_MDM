@@ -1,10 +1,10 @@
 # RPL_TI6A_MDM
 Rangkuman Materi A&PPL RSCR4MDM
 
-<table align="left">
+<table>
   <tr> <td> Nim</td> <td> : </td> <td> 1811500086 </td> </tr>
   <tr> <td> Nama</td> <td> : </td> <td> Muhammad Dafi Mahendra </td> </tr>
-	<tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
+  <tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
 </table>
 <br>
 INFO PRIBADI <br>
