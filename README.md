@@ -23,10 +23,11 @@ Tetap Semangat ...semangat...semangat<br>
 </oi>
 
 # Link Youtube A&PPL
- Matakuliah Ini Ditampuh Oleh Bapak Yohanes Japriadi Setiawan, S.Kom, M.Kom Adalah Salah Satu Dosen Pada Institut Sains Dan Bisnis (ISB) Atma Luhur 
+ Matakuliah Ini Ditampuh Oleh Bapak Yohanes Japriadi Setiawan, S.Kom, M.Kom 
+ <br>Adalah Salah Satu Dosen atau Pendidik Perguruan Tinggi Pada Institut Sains Dan Bisnis (ISB) Atma Luhur Yang Sangat Berperngaruh pada kampus ini dan salah satu dosen terbaik dan mudah dipahami saat menjelasan materi ataupun praktek.
  <oi>
- <h4>Youtube Pertemuan Pertama </a></h4>
+ <h4>Youtube Pertemuan Pertama </h4>
   <iframe width="640" height="360" src="https://www.youtube.com/embed/l-gmvm258as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
- <h4>Youtube Pertemuan Kedua Tentang Analisa pada Activity Diagram Menggunakan Aplikasi Astah Community </a></h4>
-  <iframe width="300" height="300" src="https://www.youtube.com/embed/9Xwu-typjMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+ <h4>Youtube Pertemuan Kedua Tentang Analisa pada Activity Diagram Menggunakan Aplikasi Astah Community</h4>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/9Xwu-typjMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
  </oi>
