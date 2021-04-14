@@ -6,7 +6,7 @@ Nama : Muhammad Dafi Mehendra <br>
 Kelas : TI6A <br>
 
 INFO PRIBADI <br>
-<table>
+<table border ="0">
   <tr>
     <td> Nama Pendek</td> <td> : </td> <td> Dafi/hendra/ahmad </td>
   </tr>
