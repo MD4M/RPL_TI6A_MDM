@@ -11,3 +11,8 @@ Nomor Hp : 081273152070 <br>
 Status : - <br>
 Pekerjaan : Apapun Yng penting dapat duit dan halal <br>
 Tetap Semangat ...semangat...semangat<br>
+<br>
+<h4> Data Link Pertemuan A&PPL</h4><br>
+<oi>
+<h4><link hreft ="https://md4m.github.io/RPL_TI6A_MDM/1">Saduran Pertemuan Ke-1 </h4>
+</oi>
