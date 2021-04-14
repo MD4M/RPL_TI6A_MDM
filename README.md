@@ -14,5 +14,5 @@ Tetap Semangat ...semangat...semangat<br>
 <br>
 <h4> Data Link Pertemuan A&PPL</h4>
 <oi>
-  <h4><link href ="https://md4m.github.io/RPL_TI6A_MDM/1">Saduran Pertemuan Ke-1 </link> </h4>
+  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/1">Saduran Pertemuan Ke-1 </a> </h4>
 </oi>
