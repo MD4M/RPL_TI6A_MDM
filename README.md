@@ -35,7 +35,7 @@ Tetap Semangat ...semangat...semangat<br>
 </oi>
 
 # Link Youtube A&PPL
- Matakuliah Ini Ditampuh Oleh Bapak Yohanes Japriadi Setiawan, S.Kom, M.Kom 
+ Matakuliah Ini Ditampuh Oleh Bapak Yohanes Setiawan Japriadi, S.Kom, M.Kom 
  <br> Adalah Salah Satu Dosen atau Pendidik Perguruan Tinggi Pada Institut Sains Dan Bisnis (ISB) Atma Luhur Yang Sangat Berperngaruh pada kampus ini dan salah satu dosen terbaik dan mudah dipahami saat menjelasan materi ataupun praktek.
  <oi>
   <table>
