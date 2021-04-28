@@ -41,7 +41,7 @@ Tetap Semangat ...semangat...semangat<br>
   <table>
     <tr> <td> <h4>Youtube Pertemuan Pertama Kata Pengantar Mata Kuliah A&PPL </h4> </td> <td> <h4>Youtube Pertemuan Kedua Tentang Analisa pada Activity Diagram Menggunakan Aplikasi Astah Community</h4> </td> </tr>
     <tr> <td>  <iframe width="640" height="360" src="https://www.youtube.com/embed/l-gmvm258as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> </td> <td> <iframe width="640" height="360" src="https://www.youtube.com/embed/9Xwu-typjMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> </td> </tr>
-   <tr> <td> <h4>Youtube Pertemuan Ketiga Analisa Solusi, Proses Bisnis Sistem Usulan, dan Activity Diagram Sistem Usulan Mata Kuliah A&PPL </h4> </td> <td> <h4> </h4> </td> </tr>
-    <tr> <td>  <iframe width="640" height="360" src="https://www.youtube.com/embed/CVk4q8CrY4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> </td> <td> <br> </td> </tr>
-  </table>
+   <tr> <td> <h4>Youtube Pertemuan Ketiga Analisa Solusi, Proses Bisnis Sistem Usulan, dan Activity Diagram Sistem Usulan Mata Kuliah A&PPL </h4> </td> <td> <h4> UseCase Diangram Dan Dekskripsinya </h4> </td> </tr>
+    <tr> <td>  <iframe width="640" height="360" src="https://www.youtube.com/embed/CVk4q8CrY4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> </td> <td> <iframe  width="640" height="360" src="https://www.youtube.com/embed/CXi-gJU9zMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> </td> </tr>
+  </table> 
  </oi>
