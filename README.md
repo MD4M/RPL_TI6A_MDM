@@ -32,6 +32,8 @@ Tetap Semangat ...semangat...semangat<br>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/3">Saduran Pertemuan Ke-3 </a> </h4>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/4">Saduran Pertemuan Ke-4 </a> </h4>
   <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/5">Saduran Pertemuan Ke-5 </a> </h4>
+  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/6">Saduran Pertemuan Ke-6 </a> </h4>
+  <h4><a href ="https://md4m.github.io/RPL_TI6A_MDM/7">Saduran Pertemuan Ke-7 </a> </h4>
 </oi>
 
 # Link Youtube A&PPL
