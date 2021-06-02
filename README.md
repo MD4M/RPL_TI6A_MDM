@@ -6,6 +6,15 @@ Rangkuman Materi A&PPL RSCR4MDM
   <tr> <td> Nama</td> <td> : </td> <td> Muhammad Dafi Mahendra </td> </tr>
   <tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
 </table>
+<table>
+  <tr> <td> Nim</td> <td> : </td> <td> 1811500086 </td> </tr>
+  <tr> <td> Nama</td> <td> : </td> <td> Muhammad Dafi Mahendra </td> </tr>
+  <tr> <td> Nim</td> <td> : </td> <td> 1811500055 </td> </tr>
+  <tr> <td> Nama</td> <td> : </td> <td>Kukuh Kurniawan </td> </tr>
+  <tr> <td> Nim</td> <td> : </td> <td> 1811500022 </td> </tr>
+  <tr> <td> Nama</td> <td> : </td> <td> Shella </td> </tr>
+  <tr> <td> Kelompok </td> <td> : </td> <td> TI6A </td> </tr>
+</table>
 <br>
 INFO PRIBADI <br>
 <table border ="0">
